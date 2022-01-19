@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477643674331",
+    "project_id": "fir-imafeupload",
+    "storage_bucket": "fir-imafeupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477643674331:android:4f2417d1036c3c193e32fe",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477643674331-f5eevm57iu446fji3n93d96pfchj3jtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseimageupload",
+            "certificate_hash": "eabb347fa2edb331c97c9b8009d4ccc20d8cf577"
+          }
+        },
+        {
+          "client_id": "477643674331-3bgidgq4ia3jp70ap4u9prur77626hqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_askWqSsUZZ4vkAyLapRScu689UNdNTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477643674331-3bgidgq4ia3jp70ap4u9prur77626hqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
